@@ -4,6 +4,7 @@
 
 I build at the intersection of data, economics, and machine learning — with a focus on quantitative finance and applied ML.
 
+---
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -14,6 +15,7 @@ I build at the intersection of data, economics, and machine learning — with a 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
+---
 ### 🔗 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/khazar-huseynov-1023b2264)
 - 📧 [khazar@berkeley.edu](mailto:khazar@berkeley.edu)
