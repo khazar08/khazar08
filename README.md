@@ -4,19 +4,19 @@
 
 I build at the intersection of data, economics, and machine learning — with a focus on quantitative finance and applied ML.
 
-🎯 **Open to** Wuantitative research / ML internships
+🎯 **Open to** Quantitative research / ML internships
 
 ---
 
 ### 🔗 Tech Stack
 
-**Languages**
+
 ![Python][python] ![R][r] ![SQL][sql] ![MATLAB][matlab] ![Java][java] ![TypeScript][typescript]
 
-**ML & Data**
+
 ![PyTorch][pytorch] ![TensorFlow][tensorflow] ![scikit-learn][sklearn] ![pandas][pandas] ![NumPy][numpy] ![SciPy][scipy] ![XGBoost][xgboost] ![LightGBM][lightgbm] ![Plotly][plotly]
 
-**Web & Cloud**
+
 ![React][react] ![Next.js][nextjs] ![Supabase][supabase] ![PostgreSQL][postgres] ![AWS][aws] ![Azure][azure] ![Git][git]
 
 ---
