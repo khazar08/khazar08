@@ -16,6 +16,6 @@ I build at the intersection of data, economics, and machine learning — with a 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
-### 🔗 Connect with me
+### Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/khazar-huseynov-1023b2264)
 - 📧 [khazar@berkeley.edu](mailto:khazar@berkeley.edu)
