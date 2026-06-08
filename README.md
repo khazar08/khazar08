@@ -11,7 +11,7 @@ I build at the intersection of data, economics, and machine learning — with a 
 ### 🔗 Tech Stack
 
 
-![Python][python] ![R][r] ![SQL][sql] ![MATLAB][matlab] ![Java][java] ![TypeScript][typescript]
+![Python][python] ![R][r] ![SQL][sql] ![MATLAB][matlab] ![Java][java] ![TypeScript][typescript] ![HTML/CSS][HTML/CSS]
 
 
 ![PyTorch][pytorch] ![TensorFlow][tensorflow] ![scikit-learn][sklearn] ![pandas][pandas] ![NumPy][numpy] ![SciPy][scipy] ![XGBoost][xgboost] ![LightGBM][lightgbm] ![Plotly][plotly]
@@ -33,6 +33,7 @@ I build at the intersection of data, economics, and machine learning — with a 
 [matlab]: https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white
 [java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[HTML/CSS]: https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 [tensorflow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [sklearn]: https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
