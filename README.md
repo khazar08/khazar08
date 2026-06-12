@@ -8,7 +8,7 @@ I build at the intersection of data, economics, and machine learning — with a 
 
 ---
 
-### 🔗 Tech Stack
+### Tech Stack
 
 
 ![Python][python] ![R][r] ![SQL][sql] ![MATLAB][matlab] ![Java][java] ![TypeScript][typescript] ![HTML/CSS][HTML/CSS]
