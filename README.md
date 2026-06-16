@@ -14,15 +14,19 @@ I build at the intersection of data, economics, and machine learning — with a 
 ![Python][python] ![R][r] ![SQL][sql] ![MATLAB][matlab] ![Java][java] ![TypeScript][typescript]
 
 **Machine Learning / AI**
+
 ![PyTorch][pytorch] ![TensorFlow][tensorflow] ![scikit-learn][sklearn] ![XGBoost][xgboost] ![LightGBM][lightgbm]
 
 **Data Science / Scientific Computing**
+
 ![pandas][pandas] ![NumPy][numpy] ![SciPy][scipy] ![Plotly][plotly]
 
 **Backend / Infrastructure**
+
 ![PostgreSQL][postgres] ![Supabase][supabase] ![AWS][aws] ![Azure][azure] ![Git][git]
 
 **Frontend / Web**
+
 ![React][react] ![Next.js][nextjs] ![HTML/CSS][HTML/CSS]
 
 ---
