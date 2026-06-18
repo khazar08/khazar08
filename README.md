@@ -4,13 +4,6 @@
 I build at the intersection of data, economics, and machine learning — with a focus on quantitative finance and applied ML.
 
 **Open to** Quantitative research / Data Science, ML internships
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/KhazarHuseynov/KhazarHuseynov/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ### Tech Stack
