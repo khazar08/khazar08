@@ -1,5 +1,5 @@
 # Khazar Huseynov
-**Data Science + Economics (Honors) @ UC Berkeley · Full Merit Scholarship**
+# **Data Science + Economics (Honors) @ UC Berkeley · Full Merit Scholarship**
 
 I build at the intersection of data, economics, and machine learning — with a focus on quantitative finance and applied ML.
 
