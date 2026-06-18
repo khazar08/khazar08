@@ -1,11 +1,15 @@
-![snake](https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake-dark.svg)
-
 # Khazar Huseynov
  **Data Science + Economics (Honors) @ UC Berkeley · Full Merit Scholarship**
 
 I build at the intersection of data, economics, and machine learning — with a focus on quantitative finance and applied ML.
 
 **Open to** Quantitative research / Data Science, ML internships
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/KhazarHuseynov/KhazarHuseynov/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -76,7 +80,6 @@ I build at the intersection of data, economics, and machine learning — with a 
 [mlflow]: https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white
 [wandb]: https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black
 [pytest]: https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white
-[git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [postgres]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
 [supabase]: https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
 [pyspark]: https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
