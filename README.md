@@ -1,81 +1,85 @@
 # Khazar Huseynov
- **Data Science + Economics (Honors) @ UC Berkeley · Full Merit Scholarship**
 
-I build at the intersection of data, economics, and machine learning — with a focus on quantitative finance and applied ML.
+### Data Science + Economics (Honors) @ UC Berkeley · Full Merit Scholarship
 
-**Open to** Quantitative research / Data Science, ML internships
+I build at the intersection of data, economics, and machine learning — focused on quantitative finance and applied ML.
 
-### Tech Stack
+**Open to:** Quantitative Research · Data Science · ML Internships
 
-**Languages**
-
-![Python][python] ![R][r] ![SQL][sql] ![MATLAB][matlab] ![Java][java] ![TypeScript][typescript]
-
-**Machine Learning / AI**
-
-![PyTorch][pytorch] ![TensorFlow][tensorflow] ![scikit-learn][sklearn] ![XGBoost][xgboost] ![LightGBM][lightgbm] ![Transformers][transformers] ![LLM Evaluation][llmeval] ![Agentic AI][agentic]
-
-**Data Science / Statistics**
-
-![pandas][pandas] ![NumPy][numpy] ![SciPy][scipy] ![statsmodels][statsmodels] ![A/B Testing][abtesting]
-
-**Visualization**
-
-![Plotly][plotly] ![Matplotlib][matplotlib] ![Seaborn][seaborn] ![Streamlit][streamlit]
-
-**MLOps / Tooling**
-
-![Jupyter][jupyter] ![Docker][docker] ![MLflow][mlflow] ![Weights & Biases][wandb] ![pytest][pytest] ![Git][git]
-
-**Data / Cloud / Infrastructure**
-
-![PostgreSQL][postgres] ![Supabase][supabase] ![PySpark][pyspark] ![AWS][aws] ![Azure][azure]
-
-**Frontend / Web**
-
-![React][react] ![Next.js][nextjs] ![HTML/CSS][HTML/CSS]
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
 ---
 
-### Connect
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khazar-huseynov-1023b2264)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khazar@berkeley.edu)
+### 📈 [Statistical Arbitrage Backtester](https://github.com/khazar08/REPO)
+Pairs-trading engine with Kalman-filter dynamic hedge ratios, Deflated Sharpe Ratio correction, and walk-forward out-of-sample validation over ~14 years of data.
+`Python` `statsmodels` `pytest`
 
-<!-- ── badge definitions ── -->
-[python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[r]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-[sql]: https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white
-[matlab]: https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white
-[java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-[typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-[HTML/CSS]: https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[pytorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-[tensorflow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-[sklearn]: https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white
-[xgboost]: https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge
-[lightgbm]: https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge
-[transformers]: https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
-[llmeval]: https://img.shields.io/badge/LLM_Evaluation-4B2E83?style=for-the-badge
-[agentic]: https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge
-[pandas]: https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-[numpy]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-[scipy]: https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white
-[statsmodels]: https://img.shields.io/badge/statsmodels-3F51B5?style=for-the-badge
-[abtesting]: https://img.shields.io/badge/A%2FB_Testing-6A1B9A?style=for-the-badge
-[plotly]: https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white
-[matplotlib]: https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge
-[seaborn]: https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge
-[streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
-[jupyter]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
-[docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[mlflow]: https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white
-[wandb]: https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black
-[pytest]: https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white
-[postgres]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
-[supabase]: https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
-[pyspark]: https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
-[aws]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white
-[azure]: https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white
-[react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[nextjs]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+### 🎲 [Regime-Switching Monte Carlo Risk Engine](https://github.com/khazar08/REPO)
+3-state Gaussian HMM (EM) driving VaR/CVaR estimation — 94.7% empirical coverage on SPY. Performance-critical path implemented in C++.
+`Python` `C++` `NumPy`
+
+### 🎬 [Suits NLP + Graph ML Pipeline](https://github.com/khazar08/REPO)
+Character-network and sentiment analysis across 134 episodes (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
+`Python` `spaCy` `Streamlit`
+
+### 🔍 [Power Fault Detection](https://github.com/khazar08/REPO) — ISEF Finalist
+Wavelet-transform feature extraction + deep learning for power-fault classification. Independent research.
+`MATLAB` `PyTorch`
+
+> **Currently building:** an Azerbaijani low-resource instruction-following fine-tune.
+
+---
+
+## Tech Stack
+
+<!-- Cut anything below you can't speak to confidently in an interview. -->
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Machine Learning / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-2D9C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Data Science / Statistics**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3B6B9C?style=for-the-badge)
+
+**Visualization**
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**MLOps / Tooling**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Frontend / Web**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
