@@ -66,6 +66,8 @@ Wavelet-transform feature extraction + deep learning for power-fault classificat
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-3B6B9C?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=for-the-badge)
 
 **Visualization**
 
