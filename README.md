@@ -18,7 +18,7 @@ Pairs-trading engine with Kalman-filter dynamic hedge ratios, Deflated Sharpe Ra
 `Python` `statsmodels` `pytest`
 
 ### 🇦🇿 [Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
-LoRA fine-tune of Qwen2.5-3B for a severely under-resourced language, with a native-authored frozen eval set and a human + LLM-judge harness. Beats few-shot base on structured benchmarks (Belebele +8pp, SIB-200 macro-F1 0.06→0.23); a blind native human eval (n=50) shows chrF++ disagrees with native-speaker preference at Cohen's κ = 0.000 — concrete evidence that reference metrics are a poor proxy for low-resource quality.
+LoRA fine-tune of Qwen2.5-3B for a low-resource language, with a native-authored frozen eval set and a human + LLM-judge harness that exposes chrF++ as a poor proxy for native-speaker quality (Cohen's κ = 0.000).
 `Python` `PyTorch` `Transformers` `LoRA`
 
 ### 🎲 [Regime-Switching Monte Carlo Risk Engine](https://github.com/khazar08/REPO)
