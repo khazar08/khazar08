@@ -17,6 +17,10 @@ I build at the intersection of data, economics, and machine learning — focused
 Pairs-trading engine with Kalman-filter dynamic hedge ratios, Deflated Sharpe Ratio correction, and walk-forward out-of-sample validation over ~14 years of data.
 `Python` `statsmodels` `pytest`
 
+### 🇦🇿 [Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
+LoRA fine-tune of Qwen2.5-3B for a severely under-resourced language, with a native-authored frozen eval set and a human + LLM-judge harness. Beats few-shot base on structured benchmarks (Belebele +8pp, SIB-200 macro-F1 0.06→0.23); a blind native human eval (n=50) shows chrF++ disagrees with native-speaker preference at Cohen's κ = 0.000 — concrete evidence that reference metrics are a poor proxy for low-resource quality.
+`Python` `PyTorch` `Transformers` `LoRA`
+
 ### 🎲 [Regime-Switching Monte Carlo Risk Engine](https://github.com/khazar08/REPO)
 3-state Gaussian HMM (EM) driving VaR/CVaR estimation — 94.7% empirical coverage on SPY. Performance-critical path implemented in C++.
 `Python` `C++` `NumPy`
@@ -28,8 +32,6 @@ Character-network and sentiment analysis across 134 episodes (VADER, spaCy, Page
 ### 🔍 [Power Fault Detection](https://github.com/khazar08/REPO) — ISEF Finalist
 Wavelet-transform feature extraction + deep learning for power-fault classification. Independent research.
 `MATLAB` `PyTorch`
-
-> **Currently building:** an Azerbaijani low-resource instruction-following fine-tune.
 
 ---
 
@@ -55,6 +57,7 @@ Wavelet-transform feature extraction + deep learning for power-fault classificat
 ![LightGBM](https://img.shields.io/badge/LightGBM-2D9C3C?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFB300?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-EE4C2C?style=for-the-badge)
 
 **Data Science / Statistics**
 
