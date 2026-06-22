@@ -2,7 +2,7 @@
 
 ### Data Science + Economics (Honors) @ UC Berkeley · Full Merit Scholarship
 
-I build at the intersection of data, economics, and machine learning — focused on quantitative finance and applied ML.
+I build at the intersection of data, economics, and machine learning, focused on quantitative finance and applied ML.
 
 **Open to:** Quantitative Research · Data Science · ML Internships
 
