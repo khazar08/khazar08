@@ -13,23 +13,23 @@ I build at the intersection of data, economics, and machine learning — focused
 
 ## Featured Projects
 
-### 📈 [Statistical Arbitrage Backtester](https://github.com/khazar08/REPO)
+### [Statistical Arbitrage Backtester](https://github.com/khazar08/REPO)
 Pairs-trading engine with Kalman-filter dynamic hedge ratios, Deflated Sharpe Ratio correction, and walk-forward out-of-sample validation over ~14 years of data.
 `Python` `statsmodels` `pytest`
 
-### 🇦🇿 [Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
+### [Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
 LoRA fine-tune of Qwen2.5-3B for a low-resource language, with a native-authored frozen eval set and a human + LLM-judge harness that exposes chrF++ as a poor proxy for native-speaker quality (Cohen's κ = 0.000).
 `Python` `PyTorch` `Transformers` `LoRA`
 
-### 🎲 [Regime-Switching Monte Carlo Risk Engine](https://github.com/khazar08/REPO)
+### [Regime-Switching Monte Carlo Risk Engine](https://github.com/khazar08/REPO)
 3-state Gaussian HMM (EM) driving VaR/CVaR estimation — 94.7% empirical coverage on SPY. Performance-critical path implemented in C++.
 `Python` `C++` `NumPy`
 
-### 🎬 [Suits NLP + Graph ML Pipeline](https://github.com/khazar08/REPO)
+### [Suits NLP + Graph ML Pipeline](https://github.com/khazar08/REPO)
 Character-network and sentiment analysis across 134 episodes (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
 `Python` `spaCy` `Streamlit`
 
-### 🔍 [Power Fault Detection](https://github.com/khazar08/REPO) — ISEF Finalist
+### [Power Fault Detection](https://github.com/khazar08/REPO) — ISEF Finalist
 Wavelet-transform feature extraction + deep learning for power-fault classification. Independent research.
 `MATLAB` `PyTorch`
 
