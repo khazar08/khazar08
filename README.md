@@ -4,7 +4,7 @@
 
 I build at the intersection of data, economics, and machine learning, focused on quantitative finance and applied ML.
 
-**Open to:** Quantitative Research · Data Science · ML Internships
+**Open to:** Data Science · Quantitative Research · ML Internships
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khazar-huseynov)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khazar@berkeley.edu)
