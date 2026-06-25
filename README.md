@@ -26,8 +26,8 @@ LoRA fine-tune of Qwen2.5-3B for a low-resource language, with a native-authored
 `Python` `C++` `NumPy`
 
 ### [Uplift Modeling / Causal ML on Criteo](https://github.com/khazar08/REPO)
-S/T/X/R/DR meta-learners for heterogeneous treatment-effect (CATE) estimation on Criteo's 14M-row incrementality benchmark, with Qini/AUUC/uplift@k metrics built from scratch. The X-learner beats a response-model baseline by 28% on top-decile targeting — exposing outcome ROC-AUC as the wrong objective for incrementality. Top-30% targeting captures 82% of incremental visits at 30% of spend.
-`Python` `EconML` `scikit-uplift`
+S/T/X/R/DR meta-learners for treatment-effect (CATE) estimation on Criteo's 14M-row benchmark, with Qini/AUUC metrics from scratch. The X-learner beats a response-model baseline by 28% on top-decile targeting — exposing outcome ROC-AUC as the wrong objective for incrementality.
+`Python` `EconML` `scikit-uplift``
 
 ### [Suits NLP + Graph ML Pipeline](https://github.com/khazar08/REPO)
 Character-network and sentiment analysis across 134 episodes (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
