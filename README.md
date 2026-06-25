@@ -14,7 +14,7 @@ I build at the intersection of data, economics, and machine learning, focused on
 ## Featured Projects
 
 ### [Statistical Arbitrage Backtester](https://github.com/khazar08/REPO)
-Pairs-trading engine with Kalman-filter dynamic hedge ratios and walk-forward OOS validation over ~14 years — [X.X] out-of-sample Sharpe, survived Deflated Sharpe Ratio correction for multiple-testing bias.
+Pairs-trading engine with Kalman-filter dynamic hedge ratios and walk-forward OOS validation over ~14 years — 1.02 out-of-sample Sharpe, survived Deflated Sharpe Ratio correction for multiple-testing bias.
 `Python` `statsmodels` `pytest`
 
 ### [Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
@@ -22,19 +22,19 @@ LoRA fine-tune of Qwen2.5-3B for a low-resource language — +8pp on Belebele (2
 `Python` `PyTorch` `LoRA`
 
 ### [Uplift Modeling / Causal ML on Criteo](https://github.com/khazar08/REPO)
-S/T/X/R/DR meta-learners for treatment-effect (CATE) estimation on Criteo's 14M-row benchmark, with Qini/AUUC metrics from scratch. The X-learner beats a response-model baseline by 28% on top-decile targeting — exposing outcome ROC-AUC as the wrong objective for incrementality.
+S/T/X/R/DR meta-learners for treatment-effect (CATE) estimation on Criteo's 14M-row benchmark, with Qini/AUUC metrics from scratch. The X-learner beats a response-model baseline by 28% on top-decile targeting, exposing outcome ROC-AUC as the wrong objective for incrementality.
 `Python` `EconML` `scikit-uplift`
 
 ### [Regime-Switching Monte Carlo Risk Engine](https://github.com/khazar08/REPO)
-3-state Gaussian HMM (EM) driving VaR/CVaR estimation — 94.7% empirical coverage on SPY. Performance-critical path implemented in C++.
+3-state Gaussian HMM (EM) driving VaR/CVaR estimation with 94.7% empirical coverage on SPY. Performance-critical path implemented in C++.
 `Python` `C++` `NumPy`
 
 ### [Suits NLP + Graph ML Pipeline](https://github.com/khazar08/REPO)
-Character-network and sentiment analysis across 134 episodes (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
+Character-network and sentiment analysis across 134 episodes of Suits (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
 `Python` `spaCy` `Streamlit`
 
 ### [Power Fault Detection](https://github.com/khazar08/REPO) — ISEF Finalist
-Wavelet-transform feature extraction + deep learning for power-fault classification — ≈99% accuracy across DT / AdaBoost / NN baselines. Independent research.
+Wavelet-transform feature extraction + deep learning for power-fault classification, ≈99% accuracy across DT / AdaBoost / NN baselines. Independent research.
 `MATLAB` `PyTorch`
 
 ---
