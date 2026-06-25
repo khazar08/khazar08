@@ -6,35 +6,35 @@ I build at the intersection of data, economics, and machine learning, focused on
 
 **Open to:** Quantitative Research · Data Science · ML Internships
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khazar-huseynov)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khazar@berkeley.edu)
 
 ---
 
 ## Featured Projects
 
 ### [Statistical Arbitrage Backtester](https://github.com/khazar08/REPO)
-Pairs-trading engine with Kalman-filter dynamic hedge ratios, Deflated Sharpe Ratio correction, and walk-forward out-of-sample validation over ~14 years of data.
+Pairs-trading engine with Kalman-filter dynamic hedge ratios and walk-forward OOS validation over ~14 years — [X.X] out-of-sample Sharpe, survived Deflated Sharpe Ratio correction for multiple-testing bias.
 `Python` `statsmodels` `pytest`
 
 ### [Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
-LoRA fine-tune of Qwen2.5-3B for a low-resource language, with a native-authored frozen eval set and a human + LLM-judge harness that exposes chrF++ as a poor proxy for native-speaker quality (Cohen's κ = 0.000).
-`Python` `PyTorch` `Transformers` `LoRA`
+LoRA fine-tune of Qwen2.5-3B for a low-resource language — +8pp on Belebele (22→30%) and 4× SIB-200 macro-F1 vs. few-shot. A native-authored eval harness exposes chrF++ as a poor quality proxy (Cohen's κ = 0.000).
+`Python` `PyTorch` `LoRA`
+
+### [Uplift Modeling / Causal ML on Criteo](https://github.com/khazar08/REPO)
+S/T/X/R/DR meta-learners for treatment-effect (CATE) estimation on Criteo's 14M-row benchmark, with Qini/AUUC metrics from scratch. The X-learner beats a response-model baseline by 28% on top-decile targeting — exposing outcome ROC-AUC as the wrong objective for incrementality.
+`Python` `EconML` `scikit-uplift`
 
 ### [Regime-Switching Monte Carlo Risk Engine](https://github.com/khazar08/REPO)
 3-state Gaussian HMM (EM) driving VaR/CVaR estimation — 94.7% empirical coverage on SPY. Performance-critical path implemented in C++.
 `Python` `C++` `NumPy`
-
-### [Uplift Modeling / Causal ML on Criteo](https://github.com/khazar08/REPO)
-S/T/X/R/DR meta-learners for treatment-effect (CATE) estimation on Criteo's 14M-row benchmark, with Qini/AUUC metrics from scratch. The X-learner beats a response-model baseline by 28% on top-decile targeting — exposing outcome ROC-AUC as the wrong objective for incrementality.
-`Python` `EconML` `scikit-uplift``
 
 ### [Suits NLP + Graph ML Pipeline](https://github.com/khazar08/REPO)
 Character-network and sentiment analysis across 134 episodes (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
 `Python` `spaCy` `Streamlit`
 
 ### [Power Fault Detection](https://github.com/khazar08/REPO) — ISEF Finalist
-Wavelet-transform feature extraction + deep learning for power-fault classification. Independent research.
+Wavelet-transform feature extraction + deep learning for power-fault classification — ≈99% accuracy across DT / AdaBoost / NN baselines. Independent research.
 `MATLAB` `PyTorch`
 
 ---
@@ -62,6 +62,7 @@ Wavelet-transform feature extraction + deep learning for power-fault classificat
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFB300?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PEFT / LoRA](https://img.shields.io/badge/PEFT%20%2F%20LoRA-EE4C2C?style=for-the-badge)
+![EconML](https://img.shields.io/badge/EconML-512BD4?style=for-the-badge)
 
 **Data Science / Statistics**
 
