@@ -33,10 +33,6 @@ S/T/X/R/DR meta-learners for treatment-effect (CATE) estimation on Criteo's 14M-
 Character-network and sentiment analysis across 134 episodes of Suits (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
 `Python` `spaCy` `Streamlit`
 
-### [Power Fault Detection](https://github.com/khazar08/REPO) — ISEF Finalist
-Wavelet-transform feature extraction + deep learning for power-fault classification, ≈99% accuracy across DT / AdaBoost / NN baselines. Independent research.
-`MATLAB` `PyTorch`
-
 ---
 
 ## Tech Stack
