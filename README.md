@@ -17,7 +17,7 @@ I build at the intersection of data, economics, and machine learning, focused on
 Pairs-trading engine with Kalman-filter dynamic hedge ratios and walk-forward OOS validation over ~14 years — 1.02 out-of-sample Sharpe, survived Deflated Sharpe Ratio correction for multiple-testing bias.
 `Python` `statsmodels` `pytest`
 
-### [Fine-tuned Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
+### [Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
 LoRA fine-tune of Qwen2.5-3B for a low-resource language — +8pp on Belebele (22→30%) and 4× SIB-200 macro-F1 vs. few-shot. A native-authored eval harness exposes chrF++ as a poor quality proxy (Cohen's κ = 0.000).
 `Python` `PyTorch` `LoRA`
 
