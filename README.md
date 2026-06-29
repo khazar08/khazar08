@@ -1,6 +1,6 @@
 # Khazar Huseynov
 
-### Data Science + Economics (Honors) @ UC Berkeley, minor in Mathematics · Full Merit Scholarship
+### Data Science + Economics (Honors) @ UC Berkeley, minor in Maths · Full Merit Scholarship
 
 I build at the intersection of data, economics, and machine learning, focused on quantitative finance and applied ML.
 
