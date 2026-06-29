@@ -9,7 +9,7 @@ I build at the intersection of data, economics, and machine learning, focused on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khazar-huseynov)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khazar@berkeley.edu)
 
----
+<img src="assets/line.svg" width="100%" height="3" alt="">
 
 ## Featured Projects
 
@@ -33,7 +33,7 @@ S/T/X/R/DR meta-learners for treatment-effect (CATE) estimation on Criteo's 14M-
 Character-network and sentiment analysis across 134 episodes of Suits (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
 `Python` `spaCy` `Streamlit`
 
----
+<img src="assets/line.svg" width="100%" height="3" alt="">
 
 ## Tech Stack
 
