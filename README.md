@@ -31,8 +31,6 @@ Character-network and sentiment analysis across 134 episodes of Suits (VADER, sp
 
 ## Tech Stack
 
-<!-- Cut anything below you can't speak to confidently in an interview. -->
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
