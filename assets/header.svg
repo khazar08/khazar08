@@ -74,13 +74,7 @@
     <text x="322" y="134" text-anchor="middle" font-size="13" font-weight="700" fill="#f0c674">ISEF Finalist</text>
     <animate attributeName="opacity" from="0" to="1" begin=".7s" dur=".5s" fill="freeze"/>
   </g>
-
-  <!-- Tagline -->
-  <text x="56" y="176" font-size="15" fill="#8B949E" opacity="0">
-    Quantitative Finance &#215; Machine Learning &#215; Causal Inference
-    <animate attributeName="opacity" from="0" to="1" begin=".95s" dur=".5s" fill="freeze"/>
-  </text>
-
+  
   <!-- Open to (with status dot) -->
   <g opacity="0">
     <circle cx="61" cy="197" r="5" fill="#3fb950"/>
