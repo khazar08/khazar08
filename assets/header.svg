@@ -88,6 +88,8 @@
 
   </text>
 
+  <!-- Full Merit Scholarship -->
+
   <g opacity="0">
 
       <rect
@@ -100,8 +102,10 @@
           stroke="#f0c67480"/>
 
       <text
-          x="65"
-          y="141"
+          x="157"
+          y="136"
+          text-anchor="middle"
+          dominant-baseline="middle"
           font-size="14"
           font-weight="700"
           fill="#f0c674">
@@ -119,6 +123,7 @@
 
   </g>
 
+  <!-- ISEF Finalist -->
 
   <g opacity="0">
 
@@ -132,8 +137,10 @@
           stroke="#f0c67480"/>
 
       <text
-          x="294"
-          y="141"
+          x="350.5"
+          y="136"
+          text-anchor="middle"
+          dominant-baseline="middle"
           font-size="14"
           font-weight="700"
           fill="#f0c674">
@@ -150,7 +157,6 @@
                fill="freeze"/>
 
   </g>
-
 
   <text
       x="50"
@@ -170,7 +176,6 @@
 
   </text>
 
-
   <text
       x="50"
       y="206"
@@ -182,7 +187,7 @@
       </tspan>
 
       <tspan fill="#58A6FF">
-          Quant Research · Machine Learning · Data Science internships
+          Quant Research · Machine Learning · Data Science Internships
       </tspan>
 
       <animate attributeName="opacity"
