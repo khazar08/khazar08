@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khazar@berkeley.edu)
 
 <img src="assets/line.svg" width="100%" height="6" alt="">
-
 ## Featured Projects
 
 ### [Statistical Arbitrage Backtester](https://github.com/khazar08/REPO)
