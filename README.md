@@ -2,9 +2,6 @@
 
 ### Data Science + Economics @ UC Berkeley · Minor in Mathematics
 
-`QUANT` · `MACHINE LEARNING` · `DATA SCIENCE`
-
-Class of 2029 · Seeking **Summer 2027** internships
 
 ![Full Merit Scholarship](https://img.shields.io/badge/Full_Merit_Scholarship-B7791F?style=for-the-badge)
 ![ISEF Finalist](https://img.shields.io/badge/ISEF_Finalist-0D9488?style=for-the-badge)
