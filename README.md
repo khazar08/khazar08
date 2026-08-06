@@ -19,6 +19,10 @@
 Pairs-trading engine with Kalman-filter dynamic hedge ratios and walk-forward OOS validation over ~14 years — 1.02 out-of-sample Sharpe, survived Deflated Sharpe Ratio correction for multiple-testing bias.
 `Python` `statsmodels` `pytest`
 
+### [Two-Stage Video Recommendation Ranking System](https://github.com/khazar08/REPO)
+Retrieval-then-ranking recommender on MovieLens-25M (1.48M interactions): ALS + two-tower retrieval feeding LightGBM LambdaMART and neural rankers, served behind a FastAPI endpoint — NDCG@10 of 0.622, with two-tower lifting Recall@200 ~7% over ALS (0.455 vs. 0.425). Four-loss ablation shows listwise consistently beating pairwise.
+`Python` `PyTorch` `LightGBM`
+
 ### [Azerbaijani Instruction-Following LLM](https://github.com/khazar08/REPO)
 LoRA fine-tune of Qwen2.5-3B for a low-resource language — +8pp on Belebele (22→30%) and 4× SIB-200 macro-F1 vs. few-shot. A native-authored eval harness exposes chrF++ as a poor quality proxy (Cohen's κ = 0.000).
 `Python` `PyTorch` `LoRA`
@@ -31,9 +35,9 @@ S/T/X/R/DR meta-learners for treatment-effect (CATE) estimation on Criteo's 14M-
 3-state Gaussian HMM (EM) driving VaR/CVaR estimation with 94.7% empirical coverage on SPY. Performance-critical path implemented in C++.
 `Python` `C++` `NumPy`
 
-### [Suits NLP + Graph ML Pipeline](https://github.com/khazar08/REPO)
-Character-network and sentiment analysis across 134 episodes of Suits (VADER, spaCy, PageRank, LSTM, XGBoost) with an interactive Streamlit dashboard.
-`Python` `spaCy` `Streamlit`
+### [M&A Origination & Valuation Engine](https://github.com/khazar08/REPO)
+End-to-end origination pipeline over SEC EDGAR XBRL filings: ranks acquisition targets by embedding-based strategic adjacency and segment complementarity, runs a full DCF/WACC/CAPM stack with trading comps, precedent transactions, and EPS accretion/dilution, and ships a one-command CLI generating deal teasers with football-field charts and premium × synergy sensitivity heatmaps. 87% top-10 / 100% top-20 hit-rate vs. real deal pairings, 33 pytest cases.
+`Python` `scikit-learn` `pandas`
 
 <img src="assets/line.svg" width="100%" height="6" alt="">
 
@@ -70,15 +74,9 @@ Character-network and sentiment analysis across 134 episodes of Suits (VADER, sp
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-2C5BB4?style=for-the-badge)
 
-**Visualization**
+**Serving / MLOps / Tooling**
 
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**MLOps / Tooling**
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -86,6 +84,13 @@ Character-network and sentiment analysis across 134 episodes of Suits (VADER, sp
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+**Visualization**
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Frontend / Web**
 
