@@ -6,7 +6,7 @@
 ![Full Merit Scholarship](https://img.shields.io/badge/Full_Merit_Scholarship-B7791F?style=for-the-badge)
 ![ISEF Finalist](https://img.shields.io/badge/ISEF_Finalist-0D9488?style=for-the-badge)
 
-**Open to** → Quant Research · Machine Learning · Data Science Internships
+**Open to** → Quant Research · SWE · Machine Learning · Data Science Internships
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khazar-huseynov)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khazar@berkeley.edu)
